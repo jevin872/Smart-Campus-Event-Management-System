@@ -1,0 +1,6 @@
+{
+  "username": "admin_user",
+  "email": "admin@campus.com",
+  "password": "password123",
+  "role": ["admin"]
+}
